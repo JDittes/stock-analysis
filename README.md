@@ -56,6 +56,12 @@ I found that DQ's Net Gain over the two-year period was 137%, well outpacing the
 ![comparative_data](https://github.com/JDittes/stock-analysis/blob/main/comparative_index.png)
 
 ## Summary
-Refractoring the AllStocksAnalysis code helped me to get down to the basics of VBA coding. I spent a lot of time trying to understand the variables I would be using in the script, and it gave me a deeper understanding of the types of variables one uses in VBA (long, single, double, integer, string, etc.)
+Refactoring the AllStocksAnalysis code helped me to get down to the basics of VBA coding. I spent a lot of time trying to understand the variables I would be using in the script, and it gave me a deeper understanding of the types of variables one uses in VBA (long, single, double, integer, string, etc.)
+
+The refactored script ultimately combined three separate scripts from the green_stocks.xlsm activity during the week. By nesting the indexing of the stocks within another four loop, it used less memory and completed tasks faster. 
+
+I think the best element of refactoring is that existing script is adapted and expanded. As a learner, this was important for me, because I came to understand the code I had written earlier in a deeper and more meaningful way. I expect that--as a professional--I will be adaping existing scripts to meet new needs, so this will be an important skill to develop for me.
+
+The hardest element of refactoring for me was the understanding of how variables and arrays adapt to changing circumstances. I really struggled to understand variables in a new context, and it really demanded that I build my knowledge of VBA variables and arrays in order to deploy them effectively.
 
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
