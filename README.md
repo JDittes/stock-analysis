@@ -33,7 +33,7 @@ Next, I programmed the file to evaluated the starting and the ending prices of D
     End If
 `
 
-The results I found were significant. DQ had _fallen_ by 63% over the past year. While a company that has lost almost 2/3rds of its value may not be a lost cause (it could recover), it's not a good bet for Steve or his parents to invest a significant amount of money in. ![DQ Results] (https://github.com/JDittes/stock-analysis/blob/main/ActivityDQ_results.png)
+The results I found were significant. DQ had _fallen_ by 63% over the past year. While a company that has lost almost 2/3rds of its value may not be a lost cause (it could recover), it's not a good bet for Steve or his parents to invest a significant amount of money in. !(/blob/main/ActivityDQ_results.png)
 
 ### A Look at a Broader Range of Stocks, Added Time Period
 When I refractored the code to add in more environmentally friendly stocks, the performance of DQ comes into greater focus. And some other stocks also show promise.
